@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: 2317285
+Build-Jdk: 17.0.6
+Implementation-Title: CookBook
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: cooking
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-boot
+ -starter-parent/book
+Created-By: Maven Integration for Eclipse
+
